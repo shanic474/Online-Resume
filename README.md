@@ -8,7 +8,7 @@
 
 <body>
     <h1>My Resume</h1>
-    <img src="../assets/image1.jpg" height="200" alt="imgae of me"
+    <img src="./assets/image1.jpg" height="200" alt="imgae of me"
     <hr />
     <h2>Summary</h2>
     <p>I am looking for a job</p>
@@ -39,8 +39,8 @@
         <li>Honor student at Afeka</li>
     </ul>
    
-    <a href="../Public/hobbies.html">Hobbies</a>
-    <a href="../Public/contact.html">Contact</a>
+    <a href="./Public/hobbies.html">Hobbies</a>
+    <a href="./Public/contact.html">Contact</a>
     <hr />
     <footer>
         <p>All rights reserve to Shani Chen</p>
